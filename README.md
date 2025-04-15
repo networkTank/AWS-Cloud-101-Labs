@@ -4,25 +4,25 @@ Welcome to the AWS Cloud 101 Labs! This repository provides step-by-step guides 
 
 ## Labs Overview
 
-1. **[Introduction to Amazon S3](Lab1-Introduction-to-Amazon-S3/)**  
+1. **[Introduction to Amazon S3](Lab1-Introduction-to-Amazon-S3.md)**  
    Learn the basic functionality of Amazon S3, including creating buckets, adding objects, and sharing content.
 
-2. **[Introduction to Amazon EC2](Lab2-Introduction-to-Amazon-EC2/)**  
+2. **[Introduction to Amazon EC2](Lab2-Introduction-to-Amazon-EC2.md)**  
    Explore how to set up and launch an EC2 instance.
 
-3. **[Introduction to Amazon RDS](Lab3-Introduction-to-Amazon-RDS/)**  
+3. **[Introduction to Amazon RDS](Lab3-Introduction-to-Amazon-RDS.md)**  
    Understand how to create a database using Amazon RDS and configure a web application to connect to it.
 
-4. **[Creating a Virtual Private Cloud](Lab4-Creating-a-Virtual-Private-Cloud/)**  
+4. **[Creating a Virtual Private Cloud](Lab4-Creating-a-Virtual-Private-Cloud.md)**  
    Learn how to build a VPC, deploy resources, and establish private peering connections.
 
-5. **[Introduction to IAM](Lab5-Introduction-to-IAM/)**  
+5. **[Introduction to IAM](Lab5-Introduction-to-IAM.md)**  
    Explore users, groups, and policies in AWS Identity and Access Management (IAM).
 
-6. **[Introduction to AWS Lambda](Lab6-Introduction-to-AWS-Lambda/)**  
+6. **[Introduction to AWS Lambda](Lab6-Introduction-to-AWS-Lambda.md)**  
    Learn to create, test, and invoke Lambda functions.
 
-7. **[Introduction to Amazon CloudWatch](Lab7-Introduction-to-Amazon-CloudWatch/)**  
+7. **[Introduction to Amazon CloudWatch](Lab7-Introduction-to-Amazon-CloudWatch.md)**  
    Explore CloudWatch features, including creating alarms and setting up notifications.
 
 ---
